@@ -9,4 +9,4 @@ The above image displays the flowchart for the matrix multiplication code while 
 
 Details are available in the report here. https://github.com/AyushMaria/Cloud-Computing-AWS--s349256-Ayush-Maria-/blob/main/Report/Cloud_Computing_with_AWS__s349256_.pdf
 
-<p align = "center"> <img src = "https://github.com/AyushMaria/Cloud-Computing-AWS--s349256-Ayush-Maria-/blob/main/Images/mmult output.png"></p>
+<p align = "center"> <img src = "Images/mmult output.jpg"></p>
