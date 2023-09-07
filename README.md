@@ -3,4 +3,10 @@
 
 <p align = "center"> <img src = "https://github.com/AyushMaria/Cloud-Computing-AWS--s349256-Ayush-Maria-/blob/main/Images/codemult.png"></p>
 
-the above image displays the flowchart for the matrix multiplication code.
+The above image displays the flowchart for the matrix multiplication code while the code for Matrix Addition is available below along with the results.
+
+<p align = "center"> <img src = "https://github.com/AyushMaria/Cloud-Computing-AWS--s349256-Ayush-Maria-/blob/main/Images/madd.png"></p>
+
+Details are available in the report here. https://github.com/AyushMaria/Cloud-Computing-AWS--s349256-Ayush-Maria-/blob/main/Report/Cloud_Computing_with_AWS__s349256_.pdf
+
+<p align = "center"> <img src = "https://github.com/AyushMaria/Cloud-Computing-AWS--s349256-Ayush-Maria-/blob/main/Images/mmult output.png"></p>
